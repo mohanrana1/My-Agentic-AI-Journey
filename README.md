@@ -7,6 +7,6 @@ This repository contains my practice projects while learning Agentic AI followin
 - Date: April 2026
 
 ## How to Run
-1. Get Groq API key
+1. Get Gemini API key
 2. Open the notebook in Colab
 3. Run all cells
